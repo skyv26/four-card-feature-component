@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/skyv26/four-card-feature-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://skyv26.github.io/four-card-feature-component/)
 
 ## My process
 
